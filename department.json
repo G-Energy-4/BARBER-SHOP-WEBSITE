@@ -1,0 +1,39 @@
+[
+    {
+        "ID":"01",
+        "Name":"BUZZ CUT",
+        "Img":"j_img1.jpg",
+        "Price":"₹1500"
+    },
+    {
+        "ID":"02",
+        "Name":"UNDER CUT",
+        "Img":"j_img1.jpg",
+        "Price":"₹1700"
+    },
+    {
+        "ID":"03",
+        "Name":"CREW CUT",
+        "Img":"j_img1.jpg",
+        "Price":"₹1900"
+    },
+    {
+        "ID":"04",
+        "Name":"SHORT COMB",
+        "Img":"j_img1.jpg",
+        "Price":"₹2100"
+    },
+    {
+        "ID":"05",
+        "Name":"SHORT MESSY",
+        "Img":"j_img1.jpg",
+        "Price":"₹1600"
+    },
+    {
+        "ID":"06",
+        "Name":"FRENCH CROP",
+        "Img":"j_img1.jpg",
+        "Price":"₹2500"
+    }
+]
+
